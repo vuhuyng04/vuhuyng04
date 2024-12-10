@@ -15,8 +15,8 @@
 
 # 📚 **Repo**
 
-<a href="https://github.com/vuhuyng/AIO2024-Exercise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng&repo=AIO2024-Exercise&theme=onedark&cache_seconds=1800" />
+<a href="https://github.com/vuhuyng04/AIO2024-Exercise">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng04&repo=AIO2024-Exercise&theme=onedark&cache_seconds=1800" />
 </a>
 
 
@@ -31,8 +31,8 @@
 
 # 📊GitHub Stats :
 <div style="display: flex; justify-content: space-between;">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vuhuyng&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vuhuyng&theme=radical&hide_border=false" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vuhuyng04&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vuhuyng04&theme=radical&hide_border=false" />
 </div>
 
 
