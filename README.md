@@ -11,7 +11,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=matplotlib&logoColor=black) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=plastic&logo=seaborn&logoColor=white)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuhuyng04&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📚 **Repo**
 
@@ -33,7 +33,10 @@
 <div style="display: flex; justify-content: space-between;">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vuhuyng04&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vuhuyng04&theme=radical&hide_border=false" />
+    
 </div>
+
+
 
 
 
