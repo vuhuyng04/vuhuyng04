@@ -10,6 +10,8 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=matplotlib&logoColor=black) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=plastic&logo=seaborn&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuhuyng04&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
