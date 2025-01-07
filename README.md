@@ -26,7 +26,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng04&repo=Resnet4Weather-Classifier&theme=onedark&cache_seconds=1800" />
 </a>
 
-
+<a href="https://github.com/vuhuyng04/finetune-bert-ntc-scv-sentiment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng04&repo=finetune-bert-ntc-scv-sentiment&theme=onedark&cache_seconds=1800" />
+</a>
 
 
 
