@@ -30,6 +30,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng04&repo=finetune-bert-ntc-scv-sentiment&theme=onedark&cache_seconds=1800" />
 </a>
 
+<a href="https://github.com/vuhuyng04/VNFood_Img_Retrival">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng04&repo=VNFood_Img_Retrival&theme=onedark&cache_seconds=1800" />
+</a>
+
 
 
 
