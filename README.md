@@ -34,7 +34,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng04&repo=VNFood_Img_Retrival&theme=onedark&cache_seconds=1800" />
 </a>
 
-
+<a href="https://github.com/vuhuyng04/craw_data_VietnamNews_and_classification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhuyng04&repo=craw_data_VietnamNews_and_classification&theme=onedark&cache_seconds=1800" />
+</a>
 
 
 
